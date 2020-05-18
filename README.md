@@ -1,10 +1,10 @@
 # Text Detection
 Detects the numerical text in an image
 
-# Downloads
+## Downloads
 install tensorflow
 
-# HOW TO RUN THE FILES
+## HOW TO RUN THE FILES
 
 1.Clone and download the project
 
@@ -12,6 +12,6 @@ install tensorflow
 
 3.Open the .ipynb file in Jupyter Notebook
 
-# Alternative
+## Alternative
 Run the file on google colab online platform
 
